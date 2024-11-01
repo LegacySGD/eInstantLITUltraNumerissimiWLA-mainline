@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Ultra Numerissimi WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="UltraNumerissimi" enableFreeSpin="Y" clientversion="1.0" gameId="300-2384-0" />
+	<GameClient name="Ultra Numerissimi WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="UltraNumerissimi " enableFreeSpin="Y" clientversion="1.0" gameId="300-2384-0" />
+	<GameClient name="Ultra Numerissimi WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="UltraNumerissimi" enableFreeSpin="Y" clientversion="1.0" gameId="300-2384-0" />
+</ClientConfig>
